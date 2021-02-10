@@ -1,8 +1,8 @@
 name: OpenReflector
-description: Software Developer
+description: Amateur radio operator 2E0OPT
 url: ''
 baseurl: ''
-author: Jon Nihill
+author: Jon 2E0OPT
 copyright: 2021-
 share:
   facebook: true
@@ -15,8 +15,8 @@ social:
   github: 2e0opt
   stackoverflow: ''
   linkedin: null
-  instagram: ''
-  lastfm: ''
+  instagram: null
+  lastfm: null
   rss: feed.xml
 google_analytics_key: null
 yandex_metrica: null
