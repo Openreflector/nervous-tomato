@@ -13,7 +13,7 @@ share:
   email: true
 social:
   github: 2e0opt
-  stackoverflow: ''
+  stackoverflow: null
   linkedin: null
   instagram: null
   lastfm: null
