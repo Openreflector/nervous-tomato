@@ -6,15 +6,15 @@ title: Reflectors
 
 ### Current reflectors hosted and run by openreflector.com
 
-- [XLX497](http://xlx.openreflector.com/)
-- YSF reflector 69742
-- P25 Talkgroup 994 
+- ~~[XLX497](http://xlx.openreflector.com/)~~
+- ~~YSF reflector 69742~~
+- P25 Talkgroup 994 (Running but for how long??)
 - Allstar node: 525500, 525501
 
 ## Whats next?
-I currently have a few things I want to experiment with and try. ~~Allstar being one of them.~~ I'd love to setup my own DMR server as well.  
+I currently have a few things I want to experiment with and try. I will be dabbling in various digital voice modes as time allows.  
 
 ### What I have no intention of setting up.
-__ECHOLINK__, ugh I recently signed up for a -L account to setup a echolink bridge into my pre existing xlx setup. My application got denied on the account that I am *only* a intermediate license holder. What gave me a sour taste is that when you look through the list of -L stations there are plenty of Foundation and intermediate license holders. Gatekeeping for gatekeeping's sake in my opinion. I want no part of it.
+__ECHOLINK__ the people running that service need to realise they aren't the center of the universe and that as a intermediate license holder (which doesn't state anywhere I can't have a particular account which a service that has a website from the 90's with no contact details for anyone)
 
 
